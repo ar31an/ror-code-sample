@@ -1,1 +1,1 @@
-# ror-code-sample
+# Ruby on Rails code sample
